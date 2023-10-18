@@ -1,0 +1,18 @@
+azure-core==1.27.1 #PREVIOUS VERSION 1.21.1 ON 20-06-2023
+azure-identity==1.13.0 #PREVIOUS VERSION 1.3.1 ON 20-06-2023
+azure-keyvault-secrets==4.7.0 #PREVIOUS VERSION 4.1.0 ON 20-06-2023
+azure-storage-blob==12.16.0 #PREVIOUS VERSION 12.11.0 ON 20-06-2023
+azure-storage-file-share==12.12.0 #NEW ADD ON 20-06-2023
+python-dotenv==1.0.0 #PREVIOUS VERSION 0.14.0 ON 20-06-2023
+paramiko==3.2.0 #PREVIOUS VERSION 2.12.0 ON 20-06-2023
+pyodbc==4.0.39 #PREVIOUS VERSION 4.0.35 ON 20-06-2023
+pandas==2.0.2 #PREVIOUS VERSION 1.3.5 ON 20-06-2023
+requests==2.31.0 #PREVIOUS VERSION 2.28.2 ON 20-06-2023
+datetime==5.1 #Stable
+pytest==7.3.2 #PREVIOUS VERSION 7.3.1 ON 20-06-2023
+pytest-cov==4.1.0 #PREVIOUS VERSION 4.0.0 ON 20-06-2023
+requests
+azure-mgmt-web
+azure-mgmt-compute
+azure-mgmt-network
+msrestazure-azure_active_directory
